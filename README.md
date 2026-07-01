@@ -12,7 +12,11 @@ Full-stack Developer • Node.js • Next.js • React
 
 ## 🧠 About Me
 
-I build **production-grade software systems** with a focus on **reliability, scale, and real-world performance**.
+I build production-grade software systems with a focus on reliability, scale, and real-world performance.
+
+My experience includes working on and contributing to real-world products such as:
+- :contentReference[oaicite:0]{index=0}
+- :contentReference[oaicite:1]{index=1}
 
 My work sits at the intersection of:
 - scalable backend systems
@@ -23,7 +27,7 @@ My work sits at the intersection of:
 - crawling & automation systems
 - custom business software
 
-I care about systems that don’t break under pressure.
+I focus on building systems that are fast, maintainable, and reliable under production pressure.
 
 ---
 
@@ -38,25 +42,22 @@ I care about systems that don’t break under pressure.
 ## 🚀 What I Build
 
 - ⚡ High-performance backend systems (Node.js)
-- 🌐 Modern web apps (Next.js / React)
+- 🌐 Modern web applications (Next.js / React)
 - 📊 SEO & analytics platforms
 - 🕷️ Crawling & scraping systems
-- 🔄 Real-time applications (Socket / event-driven systems)
+- 🔄 Real-time applications
 - 🧩 SaaS & custom business tools
 - 🏗️ Data-driven architectures
 
 ---
 
-## 🧩 Featured Work
+## 🧩 Featured Experience
 
-### 🔍 KwSense
-SEO analytics platform for tracking keywords, competitors, and search performance over time.
+### Fitclub
+A real-world product environment focused on scalable application development and performance-oriented systems.
 
-### 🎓 Sanak
-Gamified education platform for schools and teachers to track student progress in real time.
-
-### 🛒 Befresto
-Online supermarket system with inventory + barcode-based warehouse management.
+### Morabiha
+A platform I worked on involving full-stack development and production-level feature implementation.
 
 ---
 
